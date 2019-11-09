@@ -1,13 +1,4 @@
----
-title: "HelloWorld"
-author: "Xuefeng Yang"
-date: "2019/11/9"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
 
